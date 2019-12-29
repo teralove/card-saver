@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+	"name": "card-saver",
+	"author": "teralove",
+	"description": "Remembers card presets for each area/dungeon and auto-swaps",
+    "version": "12/29/2019",
+    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A", 
+	"options": {
+		"niceName": "Card Saver",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"    
+	},
+    "servers": ["https://raw.githubusercontent.com/teralove/card-saver/master/"],
+    "supportUrl": "https://github.com/teralove/card-saver/issues"
+}

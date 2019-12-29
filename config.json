@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "inOpenWorld": true,
+        "inDungeon": true,
+        "inBattleground": true,
+        "inCivilUnrest": true
+    }
+}

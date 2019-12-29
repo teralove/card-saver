@@ -1,0 +1,4 @@
+1. Move the def files into tera-data's protocol folder.  "...\TeraToolbox\node_modules\tera-data\protocol"
+2. Move the protocol file to tera-data's map.  "...\TeraToolbox\node_modules\tera-data\map"
+
+Note: protocol.359881.map is for NA 88.04 only
