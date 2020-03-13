@@ -1,2 +1,0 @@
-1. Move the def files into proxy definition folder.  TeraToolbox\data\definitions"
-2. Move the map files into proxy map folder.  "TeraToolbox\data\opcodes"
